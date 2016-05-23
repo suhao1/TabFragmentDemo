@@ -1,6 +1,3 @@
-# TabFragmentDemo
-fragment simple framework
-
 public class MainActivity extends FragmentActivity {
 
     public static final String key = "contentkey";
